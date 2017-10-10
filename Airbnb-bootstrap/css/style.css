@@ -1,0 +1,48 @@
+/*Partie logement*/
+.annonce p {
+	font-family: arial, sans-serif;
+	color: #484848;
+}
+
+.annonce {
+	margin: 0.3em;
+}
+
+.titre-annonce {
+	font-weight: 500;
+}
+
+.type-logement {
+	font-weight: 900;
+	font-size: 1.5em;
+	line-height: 1em;
+}
+
+.prix-nuit {
+	font-weight: 200;
+	font-size: 1.5em;
+}
+
+.titre-section {
+	font-size: 2em;
+	font-weight: 700;
+	padding-bottom: 0.5em;
+}
+
+.head-annonce {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-family: arial, sans-serif;
+	color: #484848;
+}
+
+.arrow img{
+	margin-top: 6em;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 3.5em;
+	opacity: 0.6;
+}
+
